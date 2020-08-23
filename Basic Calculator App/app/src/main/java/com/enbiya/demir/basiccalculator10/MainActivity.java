@@ -208,7 +208,18 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
                int first=Integer.valueOf(x);
                int second=Integer.valueOf(y);
-                sonuc=first+second;
+
+               switch (calc){
+                   case 1:sonuc=first+second;
+                   break;
+                   case 2:sonuc=first-second;
+                   break;
+                   case 3:sonuc=first/second;
+                   break;
+                   case 4:sonuc=first*second;
+                   break;
+               }
+
                 textsonuc.setText("="+sonuc);
 
 
