@@ -1,1 +1,1 @@
-This repository includes my simple java exercises.
+This repository for my simple java exercises includes xml files and UI designs.
