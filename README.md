@@ -1,1 +1,1 @@
-This repository for my simple java exercises includes xml files and UI designs.
+This repository for my simple android app exercises includes xml files and UI designs.
