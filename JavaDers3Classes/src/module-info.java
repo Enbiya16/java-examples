@@ -1,0 +1,2 @@
+module JavaDers3Classes {
+}

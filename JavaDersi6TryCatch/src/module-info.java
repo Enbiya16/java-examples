@@ -1,0 +1,2 @@
+module JavaDersi6TryCatch {
+}

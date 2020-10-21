@@ -1,0 +1,2 @@
+module JavaDers5ArrayList {
+}
